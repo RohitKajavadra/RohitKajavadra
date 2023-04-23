@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit kajavadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kajavadra" height="30" width="40" /></a>
-<a href="https://fb.com/rohit kajavadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit kajavadra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-kajavadra-19a636222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kajavadra" height="30" width="40" /></a>
+<a href="https://fb.com/rohit.kajavadra.50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit kajavadra" height="30" width="40" /></a>
 <a href="https://instagram.com/rohit_______k___1_4_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit_______k___1_4_4" height="30" width="40" /></a>
 </p>
 
