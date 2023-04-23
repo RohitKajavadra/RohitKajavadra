@@ -7,7 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitkajavadra" alt="rohitkajavadra" /></a> </p>
 
 - 💬 Ask me about **React Native**
-
+- 👀 I’m interested in Javascript.
+- 🌱 I’m currently Working as a React Native Developer.
 - 📫 How to reach me **rkshorts244@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
