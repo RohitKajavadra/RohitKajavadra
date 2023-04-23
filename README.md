@@ -9,7 +9,7 @@
 - 💬 Ask me about **React Native**
 - 👀 I’m interested in Javascript.
 - 🌱 I’m currently Working as a React Native Developer.
-- 📫 How to reach me **rkshorts244@gmail.com**
+- 📫 How to reach me <a href="mailto:rkshorts244@gmail.com">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
