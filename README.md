@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+[![MasterHead](https://svg-banners.vercel.app/api?type=origin&text1=I%27m%20Rohit%20Kajavadra%20%F0%9F%A4%A0&text2=%F0%9F%92%96%20React%20Native&width=800&height=400)](https://github.com/RohitKajavadra)
 <h1 align="center">Hi 👋, I'm Rohit Kajavadra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
